@@ -742,6 +742,7 @@ urls:
   - url: https://panoramax.fr
     title: Homepage presentation panoramax
     betaId: panoramax
+    category: fab-geocommuns
     tags:
       - geocommun
     tools:
@@ -751,6 +752,7 @@ urls:
       - panoramax-project/panoramax-website
   - url: https://panoramax.ign.fr
     title: Instance panoramax de l'IGN
+    category: fab-geocommuns
     betaId: panoramax
     tags:
       - geocommun
